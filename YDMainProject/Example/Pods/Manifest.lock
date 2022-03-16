@@ -1,0 +1,16 @@
+PODS:
+  - YDMainProject (0.1.0)
+
+DEPENDENCIES:
+  - YDMainProject (from `../`)
+
+EXTERNAL SOURCES:
+  YDMainProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YDMainProject: 4c0d81147bf3c90d950d80a0d273b0fe24a8c743
+
+PODFILE CHECKSUM: 802b8984082629e4c1b0c9a66e37e7365f5ed6b3
+
+COCOAPODS: 1.11.2
