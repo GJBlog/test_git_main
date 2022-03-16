@@ -1,6 +1,0 @@
-framework module Pods_YDMainProject_Tests {
-  umbrella header "Pods-YDMainProject_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}

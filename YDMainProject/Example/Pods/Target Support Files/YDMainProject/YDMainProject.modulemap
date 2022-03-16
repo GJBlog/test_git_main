@@ -1,6 +1,0 @@
-framework module YDMainProject {
-  umbrella header "YDMainProject-umbrella.h"
-
-  export *
-  module * { export * }
-}
